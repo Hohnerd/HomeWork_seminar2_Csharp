@@ -1,0 +1,15 @@
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\bin\Debug\net6.0\Zadacha_13.exe
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\bin\Debug\net6.0\Zadacha_13.deps.json
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\bin\Debug\net6.0\Zadacha_13.runtimeconfig.json
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\bin\Debug\net6.0\Zadacha_13.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\bin\Debug\net6.0\Zadacha_13.pdb
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.csproj.AssemblyReference.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.AssemblyInfoInputs.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.AssemblyInfo.cs
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.csproj.CoreCompileInputs.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\refint\Zadacha_13.dll
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.pdb
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\Zadacha_13.genruntimeconfig.cache
+E:\ИНЖЕНЕР GEEK\05. Знакомство с языками программирования\HomeWork_seminar2\Zadachi\Zadacha_13\obj\Debug\net6.0\ref\Zadacha_13.dll
